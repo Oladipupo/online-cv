@@ -94,14 +94,17 @@ skills:
       - name: Digital Audio Workstations
         level: 98%
 
-      - name: Unreal Engine
-        level: 90%
-
       - name: Unity
-        level: 90%
+        level: 80%
+
+      - name: Unreal engine
+        level: 70%
 
       - name: Microsoft Office Applications
-        level: 88%
+        level: 70%
+        
+      - name: Godot Engine
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
