@@ -73,7 +73,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      These are my side projects I have done throught the years.
+ 
     assignments:
       - title: Active Ragdolls With Unity 
         link: "#hook"
