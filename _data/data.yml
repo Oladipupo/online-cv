@@ -7,21 +7,18 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Oladipupo Ogundipe
+    tagline: Programmer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: Ogundi_l2@denison.edu
+    phone: 617-322-4097
+    website: oladipupo.github.io/online-cv/ #do not add http://
+    linkedin: OladipupoOgundipe
+    github: Oladipupo
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 9909998/Oladipupo # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -29,162 +26,88 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: 
+        level: 
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
+      - item: Music
         link:
 
-      - item: Snowboarding
+      - item: Art
         link:
 
-      - item: Cooking
+      - item: Gaming
         link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    title: About Me
+    summary: 
+      I come from a Nigerian household that resides in Boston, Massachusetts. I have been coding my whole life and once I received my Posse Foundation Full-Tuition Leadership Scholarship, I immediately declared for a Bachelor of Science in Computer Science. Since then I have taken rigorous courses involving building data structures, understanding the mathematical foundations of computer science and working within computer systems. I hope to graduate and have a career in a company that I can utilize my skillset to not only better myself, but better those around me.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Bachelor of Arts in Computer Science
+      university: Denison University
+      time: 2017 - 2021
+      details: 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: President
+      time: 2017 - Present
+      company: Red Tech, Granville, Ohio , USA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Operate the soundboard for live sound manipulation of bands, singers, rappers, and speakers
+        - Assemble and disassemble interconnected sounds systems for concerts and small events
+        - Delegate task to helpers by directing and overseeing events
+
+    - role: Mentor
+      time: 2018 - 2019
+      company: Learnwell Project, Granville, Ohio , USA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Trained in cognitive learning strategies, which are studying tools used to retain and apply information
+        - Coach students in improving studying skills by reviewing and refining study habits in weekly one-on-one meetings
+        - Record and report data to Data Analysts to conclude if cognitive learning strategies improve learning
+        
+    - role: Supervisor 
+      time: 2018 - 2019
+      company: Inquilinos Boricuas en Acción, Boston, Massachusetts, USA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Encouraged youth with developing public speaking skills and leadership
+        - Led educational workshops and musical classes teaching youth ages 14-18 about music production and performances
+        - Trained to notice and campaign against social injustices through different platforms
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are my side projects I have done throught the years.
     assignments:
-      - title: Velocity
+      - title: Active Ragdolls With Unity 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Manipluated rigidbodies with C# to create playable entities that through physics, rather than just animation."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+     
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C++/C
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Python
         level: 98%
 
-      - name: Angular
+      - name: Digital Audio Workstations
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Unreal Engine
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Unity
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Microsoft Office Applications
+        level: 88%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
