@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: Ogundi_l2@denison.edu
     phone: 617-322-4097
-    website: oladipupo.github.io/online-cv/ #do not add http://
+    website:  #do not add http://
     linkedin: OladipupoOgundipe
     github: Oladipupo
     telegram: # add your nickname without '@' sign
@@ -76,7 +76,7 @@ projects:
  
     assignments:
       - title: Active Ragdolls With Unity 
-        link: "#hook"
+        link: "https://github.com/Oladipupo/Active-Ragdolls-Unity"
         tagline: "Manipluated rigidbodies with C# to create playable entities that through physics, rather than just animation."
 
      
